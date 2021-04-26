@@ -1,1 +1,1 @@
-[{"senha":"123321","tipo":1,"cpf":"70176662405","nome":"BRUNO FARIAS"},{"senha":"123321","tipo":0,"cpf":"70176662406","nome":"PAULO HENRIQUE"}]
+[{"senha":"123321","tipo":0,"cpf":"70176662405","nome":"Bruno Farias"},{"senha":"123321","tipo":1,"cpf":"70176662406","nome":"Paulo Henrique"}]
